@@ -5,7 +5,7 @@
 	src: url('../fonts/Arvo-Bold.woff') format('woff'), url('../fonts/Arvo-Bold.ttf') format('truetype'), url('../fonts/Arvo-Bold.svg') format('svg');
 }
 body {
-	background: url(../images/bg-body.jpg) repeat;
+	/*background: url(../images/bg-body.jpg) repeat;*/
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	margin: 0;
